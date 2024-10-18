@@ -15,7 +15,7 @@ const siteMetadata = {
   github: 'https://github.com/Nimra-khan1',
   
   // twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
+
   
   linkedin: 'https://www.linkedin.com/in/nimra-khan-570ab9312/',
   
