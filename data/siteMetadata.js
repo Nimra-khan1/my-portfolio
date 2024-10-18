@@ -13,12 +13,12 @@ const siteMetadata = {
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'nk4721006@gmail.com',
   github: 'https://github.com/Nimra-khan1',
-  x: 'https://twitter.com/x',
+  
   // twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
+  
   linkedin: 'https://www.linkedin.com/in/nimra-khan-570ab9312/',
-  threads: 'https://www.threads.net',
+  
   instagram: 'https://www.instagram.com',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
