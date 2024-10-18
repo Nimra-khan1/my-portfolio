@@ -19,7 +19,7 @@ const siteMetadata = {
   
   linkedin: 'https://www.linkedin.com/in/nimra-khan-570ab9312/',
   
-  instagram: 'https://www.instagram.com',
+  instagram: 'https://www.instagram.com/nimra__offical/',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
